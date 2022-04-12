@@ -1,6 +1,6 @@
 ## Comprehension
 
-5. I fully understand today's deliverable
+5. I fully understand todays deliverable
 
 ## Completion
 
